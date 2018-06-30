@@ -4,7 +4,7 @@ title: Học cách sử dụng Markdown
 date:   2018-06-30
 categories: [Markdown]
 tags: [Markdown, github, website]
-permalink: /cach-su-dung-markdown/
+permalink: /hoc-cach-su-dung-markdown/
 ---
 
 # Học cách sử dụng Markdown
@@ -19,9 +19,11 @@ Gruber đã viết một kịch bản Perl, Markdown.pl, mà chuyển đổi đ�
 Markdown có kể từ khi được tái thực hiện bởi những người khác như là một module Perl có sẵn trên CPAN (Text :: Markdown), và trong một loạt các ngôn ngữ lập trình khác. Nó được phân phối theo một giấy phép BSD-style và được bao gồm, hoặc có sẵn như là một plugin cho một số hệ thống quản lý nội dung.
 
 **Các Phần mềm sử dụng ngôn ngữ Markdown:**
+
 Markdown được sử dụng trong GitHub, GitBook, Reddit, Diaspora, Stack Overflow, OpenStreetMap và các ứng dụng khác.
 
 **Tệp tin**
+
 Một tài liệu Markdown là một file văn bản với phần mở rộng là .md. Bạn có thể mở tệp tin markdown bằng một trình soạn thảo bất kỳ trên máy tính của bạn.
 
 ## Các thẻ tiêu đề

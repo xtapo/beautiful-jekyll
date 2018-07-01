@@ -106,9 +106,9 @@ Có nhiều cách định dạng các đoạn code như sau:
 ~~~
 Đây là chú thích tab
       Tab con bên trong
-          ben trong nữa
+          bên trong nữa
 ~~~          
-* Dùng ``` ``` ```
+* Dùng ~~~ ```` ~~~
 ~~~
   Đây là chú thích trên ```1 dòng```.
 ~~~

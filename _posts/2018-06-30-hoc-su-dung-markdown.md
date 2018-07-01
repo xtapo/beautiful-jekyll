@@ -82,4 +82,4 @@ This is [an example][aa] reference-style link.
 
 [google](http://www.google.com "google")
 ```
-This is [an example](example.com) reference-style link.
+This is [an example](http://example.com/) reference-style link.

@@ -49,8 +49,8 @@ Markdown hỗ trợ 2 kiểu viết tiêu đề tài liệu: Setext và ATX.
   ```
   
 * Bạn cũng có thể sử dụng 1 thẻ đóng ```#```:
-  `
+  ```
   # Đây là thẻ h1 #
   ## Đây là thẻ h2 ##
   ### Đây là thẻ h3 ######
-  `
+  ```

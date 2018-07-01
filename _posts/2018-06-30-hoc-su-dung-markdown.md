@@ -12,7 +12,7 @@ permalink: /hoc-cach-su-dung-markdown/
 
 Các ngôn ngữ Markdown đã được tạo ra vào năm 2004 bởi John Gruber với sự đóng góp đáng kể từ Aaron Swartz, với mục đích cho phép người "viết sử dụng, dễ viết các định dạng văn bản đơn giản dễ đọc, và tùy chọn chuyển đổi nó thành các mã XHTML hợp lệ (hoặc HTML)".
 
-![Markdown](http://octodex.github.com/images/octdrey-catburn.jpg)
+![Markdown](/images/markdown.png)
 
 Lấy tín hiệu từ các công ước hiện có để đánh dấu lên văn bản đơn giản trong email như setext, ngôn ngữ được thiết kế để có thể đọc như-là, mà không nhìn như nó được đánh dấu với thẻ hoặc hướng dẫn định dạng, không giống như các văn bản đã được định dạng với một ngôn ngữ Markup , chẳng hạn như HTML, trong đó có thẻ rõ ràng và hướng dẫn định dạng. Markdown là một cú pháp định dạng cho văn bản có thể được đọc bởi con người và có thể dễ dàng chuyển đổi sang HTML.
 

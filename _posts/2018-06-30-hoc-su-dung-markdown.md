@@ -97,3 +97,23 @@ Như bạn có thể nhận thấy, hình ảnh trong Markdown là rất tương
 Sự khác biệt là:
 * Các dấu ngoặc vuông phải được bắt đầu bằng một dấu chấm than
 * Và bên trong chúng có thể có một số văn bản thay thế. Mô tả về hình ảnh, mà được hiển thị nếu hình ảnh không thể được nạp.
+
+## Code và blocks
+---
+Có nhiều cách định dạng các đoạn code như sau:
+
+* tab vào
+~~~
+Đây là chú thích tab
+      Tab con bên trong
+          ben trong nữa
+~~~          
+* Dùng ``` ``` ```
+~~~
+  Đây là chú thích trên ```1 dòng```.
+~~~
+Đây là chú thích trên ```1 dòng```.
+
+* Cú pháp highlightingg
+  * Dùng ~~~ + tên ngôn ngữ
+  * hoặc dùng ``` + tên ngôn ngữ

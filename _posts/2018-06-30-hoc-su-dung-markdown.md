@@ -121,7 +121,7 @@ Có nhiều cách định dạng các đoạn code như sau:
   
 ## Thẻ Tables
 ``` 
-    | Tables | cột 2 | Cột 3 |
+    | Tables | Cột 2 | Cột 3 |
     |--|:--:|--:|
     | 0:2 | Căn giữa :- - - -: | Căn bên phải  - - -: |
     | 0:3 | 1:3 | 2:3 |
@@ -134,7 +134,7 @@ Có nhiều cách định dạng các đoạn code như sau:
 
 ```
 Markdown    |    Less    |    Pretty
----    |    ---    |    ---
+---    |    :---:    |    ---
 *Still*    |    `renders`    |    **nicely**
 1    |    2    |    3
 ```

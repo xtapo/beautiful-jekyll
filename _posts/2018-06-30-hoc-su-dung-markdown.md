@@ -32,14 +32,14 @@ Khi chúng ta bắt đầu viết một tài liệu markdown, chúng ta cần th
 
 Markdown hỗ trợ 2 kiểu viết tiêu đề tài liệu: Setext và ATX.
 * Với kiểu Setext: ta sử dụng ký tự ```=``` và ```-``` gạch chân dưới tiêu đề, sử dụng cho 2 thẻ ```<h1>``` và ```<h2>```.
-
- ```
+  ```
   Đây là thẻ H1
   ============
 
   Đây là thẻ H2
   ------------
   ```
+  
 * Với kiểu AXT sử dụng ký tự ```#``` để biểu diễn các thẻ tiêu đề từ ```h1``` tới ```h6```.
   ```
   #h1
@@ -49,7 +49,7 @@ Markdown hỗ trợ 2 kiểu viết tiêu đề tài liệu: Setext và ATX.
   ```
   
 * Bạn cũng có thể sử dụng 1 thẻ đóng ```#```:
- ```
+  ```
   # Đây là thẻ h1 #
   ## Đây là thẻ h2 ##
   ### Đây là thẻ h3 ######

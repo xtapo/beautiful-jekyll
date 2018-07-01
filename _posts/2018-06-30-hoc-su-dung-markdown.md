@@ -56,3 +56,26 @@ Markdown hỗ trợ 2 kiểu viết tiêu đề tài liệu: Setext và ATX.
   ## Đây là thẻ h2 ##
   ### Đây là thẻ h3 ######
   ```
+## Các thẻ liên kết
+**Markdown hỗ trợ 2 kiểu chèn liên kết là: inline và refences.**
+
+```    Khai báo trong [tên liên kết](link) ```
+Để tạo một liên kết nội tuyến, sử dụng một tập hợp các dấu ngoặc đơn ngay sau khung vuông đóng cửa các văn bản liên kết của. bên trong ngoặc, đặt URL mà bạn muốn liên kết đến thời điểm, cùng với một tiêu đề tùy chọn cho liên kết, bao bọc trong dấu ngoặc kép.
+
+**Ví dụ:**
+
+```    [I'm an    inline-style link](https://www.google.com)
+    [I'm an    inline-style link with title](https://www.google.com "Google's    Homepage")
+    [I'm a reference-style link][Arbitrary case-insensitive reference text]
+    [I'm a relative    reference to a     repository file](../blob/master/LICENSE)
+```
+
+Liên kết tham khảo theo phong cách sử dụng một bộ thứ hai của dấu ngoặc vuông, bên trong đó bạn đặt một nhãn lựa chọn của bạn để xác định link:
+```
+This is [an example][aa] reference-style link.
+
+[aa]:    http://example.com/    "Optional Title    Here"
+
+[google](http://www.google.com "google")
+```
+This is [an example](example.com) reference-style link.

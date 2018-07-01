@@ -83,3 +83,17 @@ This is [an example][aa] reference-style link.
 [google](http://www.google.com "google")
 ```
 This is [an example](http://example.com/) reference-style link.
+
+## Các thẻ hình ảnh
+---
+sử dụng ```![tên hình ảnh](đường dẫn, "tên ảnh")```
+~~~
+    #    Inline ![Alternative text](/path/to/img.jpg    "Optional    title")
+    #    Reference ![Alternative    text][id]
+    [id]:    url/to/image "Optional    title"
+~~~    
+Như bạn có thể nhận thấy, hình ảnh trong Markdown là rất tương tự như liên kết.
+
+Sự khác biệt là:  
+* Các dấu ngoặc vuông phải được bắt đầu bằng một dấu chấm than
+* Và bên trong chúng có thể có một số văn bản thay thế. Mô tả về hình ảnh, mà được hiển thị nếu hình ảnh không thể được nạp.

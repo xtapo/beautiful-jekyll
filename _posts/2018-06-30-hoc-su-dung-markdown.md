@@ -108,7 +108,7 @@ Có nhiều cách định dạng các đoạn code như sau:
       Tab con bên trong
           bên trong nữa
 ~~~          
-* Dùng ` ``` `
+* Dùng  ~ ``` ~
 ~~~
   Đây là chú thích trên ```1 dòng```.
 ~~~

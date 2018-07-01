@@ -94,6 +94,6 @@ sử dụng ```![tên hình ảnh](đường dẫn, "tên ảnh")```
 ~~~    
 Như bạn có thể nhận thấy, hình ảnh trong Markdown là rất tương tự như liên kết.
 
-Sự khác biệt là:  
+Sự khác biệt là:
 * Các dấu ngoặc vuông phải được bắt đầu bằng một dấu chấm than
 * Và bên trong chúng có thể có một số văn bản thay thế. Mô tả về hình ảnh, mà được hiển thị nếu hình ảnh không thể được nạp.

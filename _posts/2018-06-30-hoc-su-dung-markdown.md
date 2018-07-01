@@ -27,7 +27,7 @@ Markdown được sử dụng trong GitHub, GitBook, Reddit, Diaspora, Stack Ove
 Một tài liệu Markdown là một file văn bản với phần mở rộng là ```.md```. Bạn có thể mở tệp tin markdown bằng một trình soạn thảo bất kỳ trên máy tính của bạn.
 
 ## Các thẻ tiêu đề
-
+---
 Khi chúng ta bắt đầu viết một tài liệu markdown, chúng ta cần thêm một tiêu đề cho và một vài phần tiêu đề nhỏ hơn cho tài liệu.
 
 Markdown hỗ trợ 2 kiểu viết tiêu đề tài liệu: Setext và ATX.

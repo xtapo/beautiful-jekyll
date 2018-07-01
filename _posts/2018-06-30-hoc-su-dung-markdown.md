@@ -31,16 +31,16 @@ Một tài liệu Markdown là một file văn bản với phần mở rộng l�
 Khi chúng ta bắt đầu viết một tài liệu markdown, chúng ta cần thêm một tiêu đề cho và một vài phần tiêu đề nhỏ hơn cho tài liệu.
 
 Markdown hỗ trợ 2 kiểu viết tiêu đề tài liệu: Setext và ATX.
-- Với kiểu Setext: ta sử dụng ký tự ```=``` và ```-``` gạch chân dưới tiêu đề, sử dụng cho 2 thẻ ```<h1>``` và ```<h2>```.
+* Với kiểu Setext: ta sử dụng ký tự ```=``` và ```-``` gạch chân dưới tiêu đề, sử dụng cho 2 thẻ ```<h1>``` và ```<h2>```.
 
-```
-    Đây là thẻ H1
-    ============
-
-    Đây là thẻ H2
-    ------------
  ```
-- Với kiểu AXT sử dụng ký tự ```#``` để biểu diễn các thẻ tiêu đề từ ```h1``` tới ```h6```.
+  Đây là thẻ H1
+  ============
+
+  Đây là thẻ H2
+  ------------
+  ```
+* Với kiểu AXT sử dụng ký tự ```#``` để biểu diễn các thẻ tiêu đề từ ```h1``` tới ```h6```.
   ```
   #h1
   ##h2
@@ -48,7 +48,7 @@ Markdown hỗ trợ 2 kiểu viết tiêu đề tài liệu: Setext và ATX.
   ######h6
   ```
   
-- Bạn cũng có thể sử dụng 1 thẻ đóng ```#```:
+* Bạn cũng có thể sử dụng 1 thẻ đóng ```#```:
  ```
   # Đây là thẻ h1 #
   ## Đây là thẻ h2 ##

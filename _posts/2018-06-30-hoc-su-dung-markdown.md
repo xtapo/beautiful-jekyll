@@ -58,6 +58,7 @@ Markdown hỗ trợ 2 kiểu viết tiêu đề tài liệu: Setext và ATX.
   ```
   
 ## Các thẻ liên kết
+---
 **Markdown hỗ trợ 2 kiểu chèn liên kết là: inline và refences.**
 ~~~
 Khai báo trong [tên liên kết](link) 

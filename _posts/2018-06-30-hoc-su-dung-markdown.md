@@ -126,11 +126,11 @@ Có nhiều cách định dạng các đoạn code như sau:
     | 0:2 | Căn giữa :- - - -: | Căn bên phải  - - -: |
     | 0:3 | 1:3 | 2:3 |
 ```
-Tables	cột 2	Cột 3
-0:2	Căn giữa :- - - -:	Căn bên phải - - -:
-0:3	1:3	2:3
+
 | Tables | Cột 2 | Cột 3 |
 |--|:--:|--:|
+| 0:2 | Căn giữa :- - - -: | Căn bên phải - - - : |
+| 0:2 | 1:3 | 2:3 |
 
 ```
 Markdown    |    Less    |    Pretty
@@ -138,6 +138,7 @@ Markdown    |    Less    |    Pretty
 *Still*    |    `renders`    |    **nicely**
 1    |    2    |    3
 ```
-Markdown	Less	Pretty
-Still	renders	nicely
-1	2	3
+Markdown  | Less  |  Pretty
+--- | :---: | ---
+*Still* |	`renders` |	**nicely**
+1 |	2 |	3

@@ -2,7 +2,7 @@
 layout: post
 title: Cài đặt Git và thiết lập ban đầu
 image: /img/git-logo.png
-date:   2018-07-02
+date:   2018-07-02 03:00:00
 categories: [github]
 tags: [git, github]
 permalink: /cai-dat-git-va-thiet-lap-ban-dau/

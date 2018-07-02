@@ -7,6 +7,7 @@ categories: [github]
 tags: [git, github]
 permalink: /cai-dat-git-va-thiet-lap-ban-dau/
 ---
+
 Để có thể sử dụng được Git, bạn phải cài ứng dụng Git vào máy tính để có thể sử dụng các dòng lệnh của Git vì toàn bộ quy trình làm việc với Git đều diễn ra các dòng lệnh (mặc dù ở Windows có một  số phần mềm sử dụng Git với GUI nhưng mình không đề cập ở serie này).
 
 ### Cài Git vào Linux

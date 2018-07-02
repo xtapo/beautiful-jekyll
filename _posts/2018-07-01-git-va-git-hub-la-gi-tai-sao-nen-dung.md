@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Git và Github là gì? Tại sao nên dùng?
+image: /img/git-logo.png
 date:   2018-07-01
 categories: [github]
 tags: [git, github]

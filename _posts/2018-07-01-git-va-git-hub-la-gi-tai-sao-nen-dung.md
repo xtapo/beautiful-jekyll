@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Giới thiệu về Git
+title: GIT VÀ GITHUB LÀ GÌ? TẠI SAO NÊN DÙNG?
 date:   2018-06-30
 categories: [github]
 tags: [git, github]

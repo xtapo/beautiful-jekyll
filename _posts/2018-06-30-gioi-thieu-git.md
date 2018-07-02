@@ -34,4 +34,4 @@ Nếu bạn cảm thấy serie này mình hướng dẫn chưa được chi ti�
 ---
 Để sử dụng Git thì hầu như không cần chuẩn bị công cụ gì, ngoài việc mình khuyến khích các bạn nên thực hành trên hệ điều hành Linux như Ubuntu, Mac,…bạn có thể dùng phần mềm VMWare Workstation tạo ra một máy ảo và cài Ubuntu Desktop vào. Tuy nhiên nếu bạn vẫn muốn sử dụng Git trên Windows thì cũng được thôi nhưng do Git là một hệ thống phát triển trên nền Linux nên bạn dùng Linux sẽ tiện hơn.
 
-Chỉ cần như vậy thôi, nếu bạn đã sẵn sàng thì chúng ta sẽ bắt đầu với Git trong bài viết tiếp theo.
+Chỉ cần như vậy thôi, nếu bạn đã sẵn sàng thì chúng ta sẽ bắt đầu với Git trong bài viết tiếp theo. [Git và Github là gì? Tại sao nên dùng?](https://xtapo.github.io/git-va-git-hub-la-gi-tai-sao-nen-dung/)

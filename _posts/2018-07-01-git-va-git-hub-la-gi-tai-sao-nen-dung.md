@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GIT VÀ GITHUB LÀ GÌ? TẠI SAO NÊN DÙNG?
+title: Git và Github là gì? Tại sao nên dùng?
 date:   2018-06-30
 categories: [github]
 tags: [git, github]

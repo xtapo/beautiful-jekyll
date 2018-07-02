@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Học cách sử dụng Markdown
+image: /img/markdown.png
 date:   2018-06-29
 categories: [Markdown]
 tags: [Markdown, github, website]

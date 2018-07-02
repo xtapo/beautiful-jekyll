@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Học cách sử dụng Markdown
-date:   2018-06-30
+date:   2018-06-29
 categories: [Markdown]
 tags: [Markdown, github, website]
 permalink: /hoc-cach-su-dung-markdown/

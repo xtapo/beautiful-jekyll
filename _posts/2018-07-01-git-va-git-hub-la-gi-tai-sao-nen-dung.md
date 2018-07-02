@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Git và Github là gì? Tại sao nên dùng?
-date:   2018-06-30
+date:   2018-07-01
 categories: [github]
 tags: [git, github]
 permalink: /git-va-git-hub-la-gi-tai-sao-nen-dung/

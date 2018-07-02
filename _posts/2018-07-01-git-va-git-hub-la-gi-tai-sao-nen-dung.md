@@ -23,6 +23,7 @@ Và hai vấn đề trên Git có thể sẽ giúp hai anh chàng ấy giải qu
 ### Git là gì?
 ---
 *Git* là tên gọi của một *Hệ thống quản lý phiên bản phân tán* (_Distributed Version Control System – DVCS_) là một trong những hệ thống quản lý phiên bản phân tán phổ biến nhất hiện nay. DVCS nghĩa là hệ thống giúp mỗi máy tính có thể lưu trữ nhiều phiên bản khác nhau của một mã nguồn được nhân bản (_clone_) từ một kho chứa mã nguồn (_repository_), mỗi thay đổi vào mã nguồn trên máy tính sẽ có thể ủy thác (_commit_) rồi đưa lên máy chủ nơi đặt kho chứa chính. Và một máy tính khác (nếu họ có quyền truy cập) cũng có thể clone lại mã nguồn từ kho chứa hoặc clone lại một tập hợp các thay đổi mới nhất trên máy tính kia. Trong Git, thư mục làm việc trên máy tính gọi là *Working Tree*. Đại loại là như vậy.
+
 ![Mô hình hoạt động DVCS](/img/xtapo-dvcs.png)
 
 Ngoài ra, có một cách hiểu khác về Git đơn giản hơn đó là nó sẽ giúp bạn lưu lại các phiên bản của những lần thay đổi vào mã nguồn và có thể dễ dàng khôi phục lại dễ dàng mà không cần copy lại mã nguồn rồi cất vào đâu đó. Và một người khác có thể xem các thay đổi của bạn ở từng phiên bản,  họ cũng có thể đối chiếu các thay đổi của bạn rồi gộp phiên bản của bạn vào phiên bản của họ. Cuối cùng là tất cả có thể đưa các thay đổi vào mã nguồn của mình lên một kho chứa mã nguồn.

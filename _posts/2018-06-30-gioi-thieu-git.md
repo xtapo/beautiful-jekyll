@@ -6,11 +6,11 @@ categories: [github]
 tags: [git, github]
 permalink: /gioi-thieu-ve-git/
 ---
-## Tổng quan về Git cơ bản
+### Tổng quan về Git cơ bản
 ----
 Trong serie này, bạn sẽ được làm quen với hệ thống Git và cách sử dụng nó theo hướng dễ hiểu nhất. Bạn sẽ hiểu được các khái niệm và thuật ngữ trong Git như Clone, Branch, Stage, Commit, Tracking, Merge, Pull, Push,…và nó sẽ là câu trả lời cho bạn để hiểu Git là cái gì và cách sử dụng nó, tại sao nên sử dụng nó.
 
-## Kiến thức yêu cầu
+### Kiến thức yêu cầu
 ----
 Đây là một serie về Git nên mình cần các bạn có sẵn các kiến thức như sau:
 
@@ -20,7 +20,7 @@ Trong serie này, bạn sẽ được làm quen với hệ thống Git và cách
 
 Nếu bạn chưa có kinh nghiệm sử dụng Linux, mình khuyến khích bạn Học sử dụng VPS/Máy chủ cơ bản để làm quen với các lệnh và khái niệm cần thiết.
 
-## Tài nguyên về Git
+### Tài nguyên về Git
 ---
 Nếu bạn cảm thấy serie này mình hướng dẫn chưa được chi tiết mà bạn cần tìm hiểu thêm thì dưới đây là một số tài nguyên bạn nên tham khảo qua về Git.
 
@@ -30,7 +30,7 @@ Nếu bạn cảm thấy serie này mình hướng dẫn chưa được chi ti�
 * [Git – The Simple Guide](https://rogerdudler.github.io/git-guide/)
 * [Master Git Basic](https://vimeo.com/17118008) (video)
 
-## Công cụ chuẩn bị
+### Công cụ chuẩn bị
 ---
 Để sử dụng Git thì hầu như không cần chuẩn bị công cụ gì, ngoài việc mình khuyến khích các bạn nên thực hành trên hệ điều hành Linux như Ubuntu, Mac,…bạn có thể dùng phần mềm VMWare Workstation tạo ra một máy ảo và cài Ubuntu Desktop vào. Tuy nhiên nếu bạn vẫn muốn sử dụng Git trên Windows thì cũng được thôi nhưng do Git là một hệ thống phát triển trên nền Linux nên bạn dùng Linux sẽ tiện hơn.
 

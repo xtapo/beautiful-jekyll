@@ -29,8 +29,8 @@ Sau khi cài đặt Git vào Windows, bạn sẽ cần mở ứng dụng Git Bas
 Sau khi cài Git xong, việc đầu tiên bạn nên làm là khai báo tên và địa chỉ email vào trong file cấu hình của Git trên máy. Để làm điều này bạn sẽ cần sử dụng hai lệnh sau đây để thiết lập tên và email.
 
 ```
-$ git config --global user.name "Thach Pham"
-$ git config --global user.email "contact@thachpham.com"
+$ git config --global user.name "Quang Nhan"
+$ git config --global user.email "contact@quangnhan.com"
 ```
 
 Sau khi thiết lập xong, bạn có thể kiểm tra thông tin chứng thực trên user của bạn bằng cách xem tập tin `~/.gitconfig` (nhắc lại rằng dấu ~ nghĩa là thư mục gốc của user).
@@ -38,8 +38,8 @@ Sau khi thiết lập xong, bạn có thể kiểm tra thông tin chứng thực
 ```
 $ cat ~/.gitconfig
 [user]
- name = Thach Pham
- email = contact@thachpham.com
+ name = Quang Nhan
+ email = contact@quangnhan.com
 ```
 
 Hoặc bạn cũng có thể dùng lệnh `git config --list` để ghi danh sách các thiết lập hiện tại mà bạn đã làm.

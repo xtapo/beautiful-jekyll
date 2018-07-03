@@ -13,8 +13,6 @@ permalink: /hoc-cach-su-dung-markdown/
 
 Các ngôn ngữ Markdown đã được tạo ra vào năm 2004 bởi John Gruber với sự đóng góp đáng kể từ Aaron Swartz, với mục đích cho phép người "viết sử dụng, dễ viết các định dạng văn bản đơn giản dễ đọc, và tùy chọn chuyển đổi nó thành các mã XHTML hợp lệ (hoặc HTML)".
 
-![Markdown](/img/markdown.png)
-
 <p align="center">
   <img width="460" height="300" src="/img/markdown.png">
 </p>

@@ -18,7 +18,7 @@ Nhưng với Git thì nó có thêm một lựa chọn nữa đó là có thêm 
 
 ![Mô hình giải thích cách hoạt động của Staging Area](/img/git-staging-area.png "Mô hình giải thích cách hoạt động của Staging Area.")
 
-Và để đưa một tập tin vào Staging Area thì bạn sẽ cần phải sử dụng lệnh git add tên_file mà mình đã có ví dụ ở phần trước.
+Và để đưa một tập tin vào Staging Area thì bạn sẽ cần phải sử dụng lệnh `git add tên_file` mà mình đã có ví dụ ở phần trước.
 
 ### Commit là gì và nó hoạt động ra sao?
 ---

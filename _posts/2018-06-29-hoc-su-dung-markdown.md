@@ -16,7 +16,7 @@ Các ngôn ngữ Markdown đã được tạo ra vào năm 2004 bởi John Grube
 ![Markdown](/img/markdown.png)
 
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="460" height="300" src="/img/markdown.png">
 </p>
 
 Lấy tín hiệu từ các công ước hiện có để đánh dấu lên văn bản đơn giản trong email như setext, ngôn ngữ được thiết kế để có thể đọc như-là, mà không nhìn như nó được đánh dấu với thẻ hoặc hướng dẫn định dạng, không giống như các văn bản đã được định dạng với một ngôn ngữ Markup , chẳng hạn như HTML, trong đó có thẻ rõ ràng và hướng dẫn định dạng. Markdown là một cú pháp định dạng cho văn bản có thể được đọc bởi con người và có thể dễ dàng chuyển đổi sang HTML.

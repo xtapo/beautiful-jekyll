@@ -135,6 +135,7 @@ Có nhiều cách định dạng các đoạn code như sau:
 | 0:2 | Căn giữa :- - - -: | Căn bên phải - - - : |
 | 0:2 | 1:3 | 2:3 |
 
+
 ```
 Markdown    |    Less    |    Pretty
 ---    |    :---:    |    ---

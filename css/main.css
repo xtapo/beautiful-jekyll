@@ -5,7 +5,10 @@ layout: null
 @import url("pygment_highlights.css");
 
 /* --- General --- */
-
+img[src*='#center'] { 
+  display: block;
+  margin: auto;
+}
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;

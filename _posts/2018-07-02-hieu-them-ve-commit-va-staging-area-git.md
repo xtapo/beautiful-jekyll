@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hiểu thêm về Commit và Staging Area
+title: [GIT] Hiểu thêm về Commit và Staging Area
 image: /img/git-logo.png
 date:   2018-07-02 21:00:00
 categories: [github]

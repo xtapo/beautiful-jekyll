@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [GIT] Cách tạo một repository
+title: (GIT) Cách tạo một repository
 image: /img/git-logo.png
 date:   2018-07-02 08:00:00
 categories: [github]

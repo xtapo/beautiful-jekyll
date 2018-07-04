@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [GIT] Cài đặt Git và thiết lập ban đầu
+title: (GIT) Cài đặt Git và thiết lập ban đầu
 image: /img/git-logo.png
 date:   2018-07-02 03:00:00
 categories: [github]

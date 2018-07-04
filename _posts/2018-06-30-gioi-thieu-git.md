@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [GIT] Giới thiệu về Git
+title: (GIT) Giới thiệu về Git
 image: /img/git-logo.png
 date:   2018-06-30
 categories: [github]

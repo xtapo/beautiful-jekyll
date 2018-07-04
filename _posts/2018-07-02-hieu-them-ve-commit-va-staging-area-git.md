@@ -126,3 +126,5 @@ Còn nếu bạn muốn xóa nó luôn thì dùng lệnh `git rm -f tên_file` v
 ### Lời kết
 ---
 Có thể bạn sẽ thấy những gì mình nói trong bài này hơi dài nhưng đó là những kiến thức rất cơ bản về Git mà bạn cần nắm chắc vì nếu bạn không hiểu vòng đời các trang thái của một tập tin trong Git thì chắc chắn sau này khi làm việc bạn sẽ bối rối khi gõ lệnh git commit và cứ hỏi tại sao lại không commit được vì muốn commit được bạn sẽ phải đưa nó về trạng thái thích hợp, tức là trạng thái Staged.
+
+Nguồn: thachpham

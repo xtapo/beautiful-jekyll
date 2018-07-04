@@ -47,3 +47,5 @@ $ cat ~/.gitconfig
 Hoặc bạn cũng có thể dùng lệnh `git config --list` để ghi danh sách các thiết lập hiện tại mà bạn đã làm.
 
 Như vậy là bạn đã xong bước ban đầu đó là cài đặt Git và thiết lập tên và email của mình vào Git để bắt đầu làm việc. Ở phần sau, mình sẽ hướng dẫn cách bạn tạo ra một local repository (kho chứa trên máy cá nhân) để xem Git hoạt động thế nào.
+
+Nguồn: thachpham

@@ -54,3 +54,5 @@ Có rất nhiều lợi thế để bạn nên sử dụng Git trong việc lậ
 Nếu bạn là một lập trình viên thì Git là một hệ thống bạn cần phải biết cách sử dụng, ít nhất là ngay từ bây giờ.
 
 Và bắt đầu sử dụng Git thế nào thì ở bài sau chúng ta sẽ tìm hiểu tới.
+
+Nguồn: thachpham

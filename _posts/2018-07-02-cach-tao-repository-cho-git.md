@@ -117,3 +117,5 @@ Tuy nhiên nếu bạn không thích bị hỏi mật khẩu nữa thì có th�
 ### Lời kết
 ---
 Bây giờ bạn đã biết cách tạo một repository cho Git rồi chứ? Thật đơn giản phải không nào, bây giờ để tiếp tục các bài sau dễ dàng hơn, hãy thực hành tạo một reposity trên máy tính và tập commit, hoặc bạn có thể sử dụng Github để tập đưa mã nguồn của mình vào kho chứa cho thuần thục nhé.
+
+Nguồn: thachpham

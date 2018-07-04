@@ -31,8 +31,9 @@ layout: base
         </div>
       {% endif %}
 
-      <p class="alignRight">
+     
       <div class="post-categories">
+        <p style="text-align: right;">
         {% if post %}
           {% assign categories = post.categories %}
         {% else %}
@@ -42,9 +43,10 @@ layout: base
         <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
         {% unless forloop.last %}&nbsp;{% endunless %}
         {% endfor %}
+        </p>
       </div>
-      </p>
-      
+     
+
       <article role="main" class="blog-post">
         {{ content }}
       </article>

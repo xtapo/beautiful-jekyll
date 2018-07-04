@@ -8,27 +8,6 @@ tags: [test]
 
 ---
 
-# sequencer protocols for Laser eye surgery
----
-- step:  &id001                  # defines anchor label &id001
-    instrument:      Lasik 2000
-    pulseEnergy:     5.4
-    pulseDuration:   12
-    repetition:      1000
-    spotSize:        1mm
-
-- step: &id002
-    instrument:      Lasik 2000
-    pulseEnergy:     5.0
-    pulseDuration:   10
-    repetition:      500
-    spotSize:        2mm
-- step: *id001                   # refers to the first step (with anchor &id001)
-- step: *id002                   # refers to the second step
-- step:
-    <<: *id001
-    spotSize: 2mm                # redefines just this key, refers rest from &id001
-- step: *id002
 
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 

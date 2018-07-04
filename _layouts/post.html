@@ -31,7 +31,7 @@ layout: base
         </div>
       {% endif %}
 
-
+      <p class="alignRight">
       <div class="post-categories">
         {% if post %}
           {% assign categories = post.categories %}
@@ -43,6 +43,7 @@ layout: base
         {% unless forloop.last %}&nbsp;{% endunless %}
         {% endfor %}
       </div>
+      </p>
       
       <article role="main" class="blog-post">
         {{ content }}

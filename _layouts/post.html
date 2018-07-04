@@ -4,6 +4,21 @@ layout: base
 
 {% include header.html type="post" %}
 
+<div class="post-categories">
+    <p style="text-align: right;">
+     {% if post %}
+       {% assign categories = post.categories %}
+     {% else %}
+       {% assign categories = page.categories %}
+     {% endif %}
+     {% for category in categories %}
+     <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+     {% unless forloop.last %}&nbsp;{% endunless %}
+     {% endfor %}
+     </p>
+   </div>
+
+
 <div class="container">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -32,20 +47,7 @@ layout: base
       {% endif %}
 
      
-      <div class="post-categories">
-        <p style="text-align: right;">
-        {% if post %}
-          {% assign categories = post.categories %}
-        {% else %}
-          {% assign categories = page.categories %}
-        {% endif %}
-        {% for category in categories %}
-        <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-        {% unless forloop.last %}&nbsp;{% endunless %}
-        {% endfor %}
-        </p>
-      </div>
-     
+          
 
       <article role="main" class="blog-post">
         {{ content }}

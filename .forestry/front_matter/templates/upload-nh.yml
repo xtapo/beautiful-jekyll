@@ -1,0 +1,14 @@
+---
+label: Upload ảnh
+hide_body: false
+is_partial: false
+fields:
+- type: image_gallery
+  default:
+  - "/uploads/executive-suite-4.jpg"
+  - "/uploads/executive-suite-8.jpg"
+  - "/uploads/executive-suite-7.jpg"
+  - "/uploads/executive-suite-5.jpg"
+  label: Upload ảnh
+  name: upload__nUpload__nhh
+  description: Upload ảnh

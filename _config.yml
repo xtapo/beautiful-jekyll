@@ -17,7 +17,7 @@ baseurl: ""
 title: Xtapo | Blog
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Chia sẽ kinh nghiệm lập trình!
 
 # --- Navigation bar options --- #
 
@@ -237,5 +237,22 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+  
+#Jekyll-Photo-Gallery Settings
+exiftag:
+ sources:
+   - images/photography #Set to location of photos
+
+#MiniMagick
+#https://github.com/zroger/jekyll-minimagick
+mini_magick:
+    photography:
+        source: images/photography
+        destination: images/photography/thumbnails
+        resize: "1280x720"
+    headers:
+        source: images/headers
+        destination: images/headers/thumbnails
+        resize: "400x250"
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

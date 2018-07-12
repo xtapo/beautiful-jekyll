@@ -1,10 +1,8 @@
 ---
 label: Upload ảnh
-hide_body: true
+hide_body: false
 is_partial: false
 fields:
-- type: textarea
-  default: gergerg
 - type: image_gallery
   default:
   - "/uploads/executive-suite-4.jpg"
@@ -12,7 +10,7 @@ fields:
   - "/uploads/executive-suite-7.jpg"
   - "/uploads/executive-suite-5.jpg"
   label: Upload ảnh
-  name: upload__nUpload__nhh
+  name: anh_photo
   description: Upload ảnh
 pages:
 - aboutme.md

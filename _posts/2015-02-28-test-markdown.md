@@ -24,7 +24,7 @@ Here's a useless table:
 | Seven | Eight | Six |
 | Two | Three | One |
 
-
+{% includeGallery UsaSommer2015 %}
 How about a yummy crepe?
 
 ![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)

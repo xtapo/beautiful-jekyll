@@ -1,22 +1,22 @@
 photos:
     - title: Descent into the Grand Canyon III
-      img: IMG_4668
+      images: IMG_4668
       country: United States of America
       album: UsaSommer2015
     - title: Grand Canyon
-      img: IMG_4469
+      images: IMG_4469
       country: United States of America
       album: UsaSommer2015
     - title: Red Grand Canyon
-      img: IMG_4487
+      images: IMG_4487
       country: United States of America
       album: UsaSommer2015
     - title: Over the cliff
-      img: IMG_4494
+      images: IMG_4494
       country: United States of America
       album: UsaSommer2015
     - title: Freedom
-      img: IMG_4516
+      images: IMG_4516
       country: United States of America
       album: UsaSommer2015
     - title: Sunset over the Grand Canyon

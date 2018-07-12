@@ -181,6 +181,24 @@ exclude:
   - README.md
   - Vagrantfile
 
+  
+#Jekyll-Photo-Gallery Settings
+exiftag:
+ sources:
+   - images/photography #Set to location of photos
+
+#MiniMagick
+#https://github.com/zroger/jekyll-minimagick
+mini_magick:
+    photography:
+        source: images/photography
+        destination: images/photography/thumbnails
+        resize: "1280x720"
+    headers:
+        source: images/headers
+        destination: images/headers/thumbnails
+        resize: "400x250"
+  
 # prose.io config
 prose:
   rooturl: '_posts'
@@ -238,21 +256,6 @@ plugins:
   - jekyll-sitemap
 
   
-#Jekyll-Photo-Gallery Settings
-exiftag:
- sources:
-   - images/photography #Set to location of photos
 
-#MiniMagick
-#https://github.com/zroger/jekyll-minimagick
-mini_magick:
-    photography:
-        source: images/photography
-        destination: images/photography/thumbnails
-        resize: "1280x720"
-    headers:
-        source: images/headers
-        destination: images/headers/thumbnails
-        resize: "400x250"
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

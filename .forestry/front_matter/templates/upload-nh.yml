@@ -12,3 +12,5 @@ fields:
   label: Upload ảnh
   name: upload__nUpload__nhh
   description: Upload ảnh
+pages:
+- _posts/anh.md

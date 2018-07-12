@@ -3,6 +3,8 @@ label: Upload ảnh
 hide_body: false
 is_partial: false
 fields:
+- type: textarea
+  default: gergerg
 - type: image_gallery
   default:
   - "/uploads/executive-suite-4.jpg"

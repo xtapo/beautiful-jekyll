@@ -1,0 +1,8 @@
+---
+label: upload  anh
+hide_body: false
+is_partial: true
+fields:
+- type: image_gallery
+  name: upload_anh
+  label: upload anh

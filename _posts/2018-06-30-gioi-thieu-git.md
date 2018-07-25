@@ -28,7 +28,7 @@ Nếu bạn chưa có kinh nghiệm sử dụng Linux, mình khuyến khích b�
 Nếu bạn cảm thấy serie này mình hướng dẫn chưa được chi tiết mà bạn cần tìm hiểu thêm thì dưới đây là một số tài nguyên bạn nên tham khảo qua về Git.
 
 * [Ebook về Git tiếng Việt](https://git-scm.com/book/vi/v1/B%E1%BA%AFt-%C4%90%E1%BA%A7u)
-* [Ebook về Git tiếng Anh]((https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)) (nên đọc)
+* [Ebook về Git tiếng Anh](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) (nên đọc)
 * [Git Immersion](http://gitimmersion.com/)
 * [Git – The Simple Guide](https://rogerdudler.github.io/git-guide/)
 * [Master Git Basic](https://vimeo.com/17118008) (video)

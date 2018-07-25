@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (Tài Liệu) Giáo Trình Mạng Máy Tính
-image: /img/git-logo.png
+image: /img/mang-lan.jpg
 date:   2018-07-25 08:30:00
 categories: [network, tài liệu]
 tags: [tài liệu, network, cisco, ccna]

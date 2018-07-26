@@ -4,7 +4,7 @@ title: (Khóa Học) Cốt lỏi thiết kế website với HTML, CSS, Jquery, R
 image: /uploads/essential-front-end-development-frameworks.jpg
 date:   2018-07-26 08:30:00
 categories: [thiết kế website]
-tags: [thiết kế web, html, css, jquery, responsive, bootstrap]
+tags: [khóa học, thiết kế web, html, css, jquery, responsive, bootstrap]
 permalink: /cot-loi-thiet-ke-website-voi-HTML-CSS-Jquery-Responsive-Bootstrap/
 ---
 ### Bạn sẽ học được g&igrave; sau kh&oacute;a học ?

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle:
 undefined: dsffwef
 upload__nUpload__nhh:
 - "/uploads/executive-suite-4.jpg"

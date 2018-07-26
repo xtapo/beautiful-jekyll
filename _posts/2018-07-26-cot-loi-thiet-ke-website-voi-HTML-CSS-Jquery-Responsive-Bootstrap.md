@@ -1,11 +1,11 @@
 ---
 layout: post
 title: (Khóa Học) Cốt lỏi thiết kế website với HTML, CSS, Jquery, Responsive, Bootstrap, dàn layout từ Photoshop
-image: /img/git-logo.png
-date:   2018-07-01
-categories: [github]
-tags: [git, github]
-permalink: /git-va-git-hub-la-gi-tai-sao-nen-dung/
+image: /uploads/essential-front-end-development-frameworks.jpg
+date:   2018-07-26 08:30:00
+categories: [thiết kế website]
+tags: [thiết kế web, html, css, jquery, responsive, bootstrap]
+permalink: /cot-loi-thiet-ke-website-voi-HTML-CSS-Jquery-Responsive-Bootstrap/
 ---
 ### Bạn sẽ học được g&igrave; sau kh&oacute;a học ?
 ### ![](/uploads/essential-front-end-development-frameworks.jpg)

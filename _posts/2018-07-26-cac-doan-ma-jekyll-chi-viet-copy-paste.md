@@ -63,3 +63,4 @@ Tôi sẽ tạo một số đoạn mã Jekyll quan trọng để có thể chèn
 }
 </style>
 ```
+<script src="https://gist.github.com/sharu725/3c3a3971955d02e24f45edc864bf8172.js"></script>

@@ -31,6 +31,6 @@ permalink: /cot-loi-thiet-ke-website-voi-HTML-CSS-Jquery-Responsive-Bootstrap/
 
 ### Link Kh&oacute;a Học:
 
-[Download](https://acieduvn-my.sharepoint.com/:f:/g/personal/nhanhq_aci_edu_vn1/ErhGI6vlszZMnpzU23zyP6cB0I_AP24jqni2SZqDUO_bHA?e=sAP8Pu){: target="_blank"}
+[Download](https://acieduvn-my.sharepoint.com/:f:/g/personal/nhanhq_aci_edu_vn1/EmGrsoU-ympPpXjySzh_Q_MBMveBMaWlRo2UHU6m_Ndx_g?e=1Wucyg){: target="_blank"}
 
 &nbsp;

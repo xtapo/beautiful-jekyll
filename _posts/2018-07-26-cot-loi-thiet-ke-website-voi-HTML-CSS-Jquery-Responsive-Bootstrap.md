@@ -3,7 +3,7 @@ layout: post
 title: (Khóa Học) Cốt lỏi thiết kế website với HTML, CSS, Jquery, Responsive, Bootstrap, dàn layout từ Photoshop
 image: /uploads/essential-front-end-development-frameworks.jpg
 date:   2018-07-26 08:30:00
-categories: [thiết kế website]
+categories: [Khóa Học, thiết kế website]
 tags: [khóa học, thiết kế web, html, css, jquery, responsive, bootstrap]
 permalink: /cot-loi-thiet-ke-website-voi-HTML-CSS-Jquery-Responsive-Bootstrap/
 ---

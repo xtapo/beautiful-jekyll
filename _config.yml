@@ -24,10 +24,10 @@ description: Chia sẽ kinh nghiệm lập trình!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Lập Trình:
-    - Thiết Kế Website: "http://deanattali.com/beautiful-jekyll/"
-    - GitHub: "https://pages.github.com/"
+  Liên Kết:
+    - Hình Ảnh Girl Xinh: "https://photos.xtapo.com/"
   Category: "https://blog.xtapo.com/categories/"
+  Tag: "https://blog.xtapo.com/tags/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -181,7 +181,7 @@ exclude:
   - README.md
   - Vagrantfile
 
-  
+
 #Jekyll-Photo-Gallery Settings
 exiftag:
  sources:
@@ -198,7 +198,7 @@ mini_magick:
         source: images/headers
         destination: images/headers/thumbnails
         resize: "400x250"
-  
+
 # prose.io config
 prose:
   rooturl: '_posts'
@@ -255,7 +255,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-  
+
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

@@ -1,7 +1,7 @@
-### ![](/uploads/essential-front-end-development-frameworks.jpg)
+
 
 ### Bạn sẽ học được g&igrave; sau kh&oacute;a học ?
-
+### ![](/uploads/essential-front-end-development-frameworks.jpg)
 * Nắm bắt tổng quan về thiết kế web, nền tảng c&ocirc;ng nghệ li&ecirc;n quan đến x&acirc;y dựng website.
 * C&aacute;c khải niệm đầy đủ về x&acirc;y dựng một website.
 * C&aacute;c bước để thực hiện một website.

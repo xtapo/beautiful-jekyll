@@ -13,3 +13,6 @@ Tôi sẽ tạo một số đoạn mã Jekyll quan trọng để có thể chèn
 
 ### Jekyll Pagination
 <script src="https://gist.github.com/xtapo/0b4fc0eacdabf20d82e9908a9285e043.js"></script>
+
+### Jekyll Contact Form
+<script src="https://gist.github.com/xtapo/7d7413f37377de320fbaa7017554490e.js"></script>

@@ -30,7 +30,7 @@ permalink: /cot-loi-thiet-ke-website-voi-HTML-CSS-Jquery-Responsive-Bootstrap/
 * Tất cả c&aacute;c bạn đam m&ecirc; lập tr&igrave;nh
 
 ### Link Kh&oacute;a Học:
-
+{: .box-note}
 [Download](https://acieduvn-my.sharepoint.com/:f:/g/personal/nhanhq_aci_edu_vn1/EmGrsoU-ympPpXjySzh_Q_MBMveBMaWlRo2UHU6m_Ndx_g?e=1Wucyg){: target="_blank"}
 
 &nbsp;

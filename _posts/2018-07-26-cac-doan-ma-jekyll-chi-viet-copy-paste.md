@@ -32,3 +32,7 @@ Tôi sẽ tạo một số đoạn mã Jekyll quan trọng để có thể chèn
 ### Disqus Lazy Load
 
 <script src="https://gist.github.com/xtapo/3beb85e2bda41878b0272b85d8f52579.js"></script>
+
+### Jekyll Social Share Buttons
+
+<script src="https://gist.github.com/xtapo/08d9275f5ecf9c2dce2d7ef3faac452b.js"></script>

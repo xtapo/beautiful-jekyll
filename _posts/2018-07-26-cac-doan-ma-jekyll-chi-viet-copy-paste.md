@@ -35,4 +35,10 @@ Tôi sẽ tạo một số đoạn mã Jekyll quan trọng để có thể chèn
 
 ### Jekyll Social Share Buttons
 
-<script src="https://gist.github.com/xtapo/0851f14b03d25e1f38ae7efc3a0e6029.js"></script>
+<script src="https://gist.github.com/xtapo/0851f14b03d25e1f38ae7efc3a0e6029.js"></script>  
+Read - [Webjeda Sharebar](http://webjeda.com/webjeda-sharebar/)  
+Fontawesome is a huge css file. [Optimize fontawesome](https://blog.webjeda.com/optimize-fontawesome/) to speed up page load time.  
+
+### Reading Time
+
+<script src="https://gist.github.com/sharu725/d8c9566562166d6d1fd6f3f49972245e.js"></script>

@@ -14,25 +14,25 @@ Tôi sẽ tạo một số đoạn mã Jekyll quan trọng để có thể chèn
 
 ### Jekyll Pagination  
 
-<script src="https://gist.github.com/xtapo/0b4fc0eacdabf20d82e9908a9285e043.js"></script>
+<script src="https://gist.github.com/sharu725/3c3a3971955d02e24f45edc864bf8172.js"></script>
 
 
 ### Jekyll Contact Form  
 
-<script src="https://gist.github.com/xtapo/7d7413f37377de320fbaa7017554490e.js"></script>
+<script src="https://gist.github.com/sharu725/b8bc09d8a6bb57c637df0b5ae958c155.js"></script>
 
 ### Jekyll Subscribe Form  
 
-<script src="https://gist.github.com/xtapo/d7505654458b8d93dc8f27320b231e4f.js"></script>
+<script src="https://gist.github.com/sharu725/744bf9357c62a34d416ba71650a64968.js"></script>
 
 ### Table of contents
 
-<script src="https://gist.github.com/xtapo/91b16a48193a6407f13da2b72f321dd9.js"></script>
+<script src="https://gist.github.com/sharu725/2e3b740d14edcd493b623fec5dc1c228.js"></script>
 
 ### Disqus Lazy Load
 
-<script src="https://gist.github.com/xtapo/3beb85e2bda41878b0272b85d8f52579.js"></script>
+<script src="https://gist.github.com/sharu725/ef18ae0645b6b179fcc1263f156f0db9.js"></script>
 
 ### Jekyll Social Share Buttons
 
-<script src="https://gist.github.com/xtapo/08d9275f5ecf9c2dce2d7ef3faac452b.js"></script>
+<script src="https://gist.github.com/xtapo/0851f14b03d25e1f38ae7efc3a0e6029.js"></script>

@@ -19,4 +19,4 @@ Với sự phát triển không ngừng của công nghệ, đòi hỏi cơ sở
 ### Tải về Giáo Trình Mạng Máy tính    
 
 {: .box-note}  
-[Down Giáo Trình Mạng Máy Tính](https://acieduvn-my.sharepoint.com/:b:/g/personal/nhanhq_aci_edu_vn1/EcQ4pRIlP-NCi7TDAfUh58MBz_v_Lyi1hF8XZJhwj78Y_g?e=uw2A7z)
+[Download Giáo Trình Mạng Máy Tính](https://acieduvn-my.sharepoint.com/:b:/g/personal/nhanhq_aci_edu_vn1/EcQ4pRIlP-NCi7TDAfUh58MBz_v_Lyi1hF8XZJhwj78Y_g?e=uw2A7z)
